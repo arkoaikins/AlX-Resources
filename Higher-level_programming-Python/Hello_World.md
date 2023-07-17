@@ -1,9 +1,10 @@
 #0x00. Python - Hello, World
+
 For this project look at this concept
 - [python Programming](https://intranet.alxswe.com/concepts/550)
 
 Read or watch:
-- [The Python tutorial](https://intranet.alxswe.com/rltoken/JsFCs_NBzMAR7-XPAZ9BoA) (,first 3 chapters)
+- [The Python tutorial](https://intranet.alxswe.com/rltoken/JsFCs_NBzMAR7-XPAZ9BoA) (first 3 chapters)
 - [Whetting Your Appetite](https://intranet.alxswe.com/rltoken/kifRlLG2iMX5AZiW8lrCMg)
 - [Using the Python Interpreter](https://intranet.alxswe.com/rltoken/RVpfAuagCo9SdfYeoHd6jg)
 - [An Informal Introduction to Python](https://intranet.alxswe.com/rltoken/bVps0ZPWq7qVZ7vc-eJGTw)  (Read up until “3.1.2. Strings” included)
